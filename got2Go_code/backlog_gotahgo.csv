@@ -1,0 +1,16 @@
+No;User Story;Task;Estimated Time    (in days);Priority;Sprint;Completed %;Comments
+1;As a user I can view a map of all restrooms based on my location;Attain API key;2;1;1;100%;
+;;Code Map with GPS;4;1;1;50%;
+;;Design UI;1;2;1;85%;
+;;Test Map;5;2;1;20%;Map still not showing
+2;As a user I can view restoom based on a location I enter;Code Search function;3;1;2;0%;
+;;Test Search function;2;2;2;0%;
+3;As a user I can add a new restroom;Create UI to add restroom;1;2;3;0%;
+;;Code add function;3;1;3;0%;
+;;Test function;2;2;3;0%;
+4;As a user I can view the details of a restoom;Create UI to view restroom;1;2;4;0%;
+;;Test function;3;1;4;0%;
+;;;2;2;4;0%;
+5;As a user I can edit the details of a restoom;Create UI to edit restroom;1;2;5;0%;
+;;Code edit function;3;1;5;0%;
+;;Test function;2;2;5;0%;
